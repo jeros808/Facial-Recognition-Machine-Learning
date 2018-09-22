@@ -3,9 +3,15 @@
 ## 
 # Face Off Part 2
 
+![alt text]( https://github.com/jeros808/Project3/blob/master/Nick.jpg)
+
+
 ## 
 
-Our Project focuses on facial recognition using machine learning. Training of the algorithm would be based on a dataset of celebrity faces. Our project would comprises 3 parts:##
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
+Our Project focuses on facial recognition using machine learning. Training of the algorithm would be based on a dataset of celebrity faces. Our project would comprises 3 parts:
 
 1. Sentiment intepreteation: Facial recognition which categorizes each face based on the emotion shown in the expression in to one of seven categories: angry, disgust, fear, happy, sad, surprise, & neutral. This aspect, would also be done via a real-time feed.
 2.	Facial identification: Upon trainig, our algoritihm would be able to recognize images of random celebrities that are inputted.
