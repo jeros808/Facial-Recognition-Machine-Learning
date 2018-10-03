@@ -12,7 +12,6 @@ pytz==2018.5
 six==1.11.0
 SQLAlchemy==1.2.10
 Werkzeug==0.14.1
-Flask==0.12.2
 opencv==3.4.2
 keyboard==0.13.2
 paralleldots==1.0.21
