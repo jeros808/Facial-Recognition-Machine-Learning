@@ -53,7 +53,7 @@ Built with:
 
 3. [Joe Spiwak](https://github.com/jspiwak)
 
-4. [Miyea Yun](https://github.com/myun3378) 
+4. [Mieae Yun](https://github.com/myun3378) 
 
 5. [Jeff Rosal](https://github.com/jeros8088) 
 
