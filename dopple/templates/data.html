@@ -13,32 +13,30 @@ DoppleGang
 
 </head>
 <body>
-
 <div class="container">
 <div class="row" style="margin-top:80px;">
+	<br><br><br><br><br>
     <div class="col-12" style="text-align:center;">
-      <h1 style="font-family: 'Shrikhand', cursive;">DoppleGang</h1>
-      <hr>  
+      <h1 style="font-family: 'Shrikhand', cursive;">DoppleGang Results</h1>
+      <hr>
 		
     </div>
+    <div class="col-md-6 col-sm-12">
+		<img id="bg" src="{{ url_for('static', filename='img/dopplegang.png') }}" width="100%" height="auto">
+    </div>
+    <div class="col-md-6 col-sm-12">
+		<img id="bg" src="{{ url_for('static', filename='img/prob_bar_graph.png') }}" width="100%" height="auto">
+    </div>
 
-    <div class="offset-md-3 col-md-6 col-sm-12">
-    <img id="bg" src="{{ url_for('video_feed') }}" width="100%" height="auto"> 
-	</div>
     <div class="col-sm-12" style="margin-top:40px;">
 
-
-<center><h3 style="padding-bottom:35px;">Press the Spacebar to snap an image</h3></center>
-<center><a id="buttan" href="{{ url_for('data') }}" style="padding:10px; margin-top:15px; background-color:#e1e1e1; color:#222 !important;">CLICK HERE TO SEE THE RESULTS</a></center>
-
-
+<center><a id="buttan" href="http://0.0.0.0:5000/" style="padding:10px; margin-top:15px; background-color:#e1e1e1; color:#222 !important;">CLICK HERE TO TRY AGAIN</a></center>
 </div>
-    </div>
 </div>
-
+</div>
    
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
