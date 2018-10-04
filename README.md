@@ -1,7 +1,8 @@
 # Project 3
 
 ## 
-# Face Off Part 2
+# Face Off Part 2/Celebrity Look-Alike Facial Recognition
+
 
 ![alt text]( https://github.com/jeros808/Project3/blob/master/Nick.jpg)
 
@@ -20,10 +21,59 @@ Our Project focuses on facial recognition using machine learning. Training of th
 
 The end-user would access our work via a website hosted on Heroku.
 
-Tools used:
+Built with:
 1. Pandas
 2. JSS
 3. Heroku
+4. SightEngine API
+5. Parallel Dots API
+6. CV2
+7. Python
+8. Flask
+9. MatPlot
+10. Pandas
+11. Google Slides
+12. Matplotlib
+
+# Imported libary software
+
+1. OpenCV
+2. Keyboard
+3. Face_recognition
+4. dlib
+5. Sightengine
+6. Parallel Dots 
 
 
- 
+# Contributors
+
+1. [Mannydarko, Emmanuel Darko](https://github.com/mannydarko)
+
+2. [Motolani Alimi](https://github.com/motolanialimi)
+
+3. [Joe Spiwak](https://github.com/jspiwak)
+
+4. [Miyea Yun](https://github.com/myun3378) 
+
+5. [Jeff Rosal](https://github.com/jeros8088) 
+
+## API Reference
+
+1. SightEngine API
+2. Parallel Dots API
+
+## License
+
++ None
+
+## Acknowledgments
+
++ 2018 Northwestern Data Science Boot Camp
+
++ Joe's Mum 
+
++ [Eli Rosenberg](https://www.linkedin.com/in/eli-rosenberg-33235420/)
+
++ [Kalpesh Patel](https://www.linkedin.com/in/kalpesh-b-patel/)
+
+
