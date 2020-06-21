@@ -11,7 +11,7 @@ python-dateutil==2.7.3
 pytz==2018.5
 six==1.11.0
 SQLAlchemy==1.2.10
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 opencv-python==3.4.3.18 
 keyboard==0.13.2
 paralleldots==1.0.21
