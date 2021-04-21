@@ -47,7 +47,7 @@ Built with:
 
 # Contributors
 
-1. [Mannydarko, Emmanuel Darko](https://github.com/mannydarko)
+1. [Jeff Rosal](https://github.com/jeros808) 
 
 2. [Motolani Alimi](https://github.com/motolanialimi)
 
@@ -55,7 +55,7 @@ Built with:
 
 4. [Mieae Yun](https://github.com/myun3378) 
 
-5. [Jeff Rosal](https://github.com/jeros808) 
+5. [Mannydarko, Emmanuel Darko](https://github.com/mannydarko)
 
 ## API Reference
 
