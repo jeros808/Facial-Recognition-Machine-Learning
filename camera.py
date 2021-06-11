@@ -36,14 +36,14 @@ class VideoCamera(object):
                 cv2.imwrite(img_name, frame)
                 print("{} written!".format(img_name))
 
-                client = SightengineClient('523702522', 'SoMh4T2mBCTB848RmhqS')
-                output = client.check('celebrities').set_file('/Users/jeffrosal1/Desktop/NUhomework/project3/combined/flasktest/opencv_frame_0.png')
+                client = SightengineClient('', '')
+                output = client.check('celebrities').set_file('')
                 print(output)
-                set_api_key("i0bqh0wRTlMqHMTHXZPxXFumRAcETw698GaIqBN9vuM")
+                set_api_key("")
 
 # when sending a image file
 
-                path = "/Users/jeffrosal1/Desktop/NUhomework/project3/combined/flasktest/opencv_frame_0.png"
+                path = ""
                 emoout = paralleldots.facial_emotion(path)         
                 print(emoout)
             rete, jpeg = cv2.imencode('.jpg', frame)
