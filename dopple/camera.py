@@ -45,10 +45,10 @@ class VideoCamera(object):
                 cv2.imwrite(str(path_img) + 'dopplegang.png', frame)
                 print("{} written!".format(img_name))
 
-                client = SightengineClient('523702522', 'SoMh4T2mBCTB848RmhqS')
+                client = SightengineClient('', '')
                 output = client.check('celebrities').set_file('/Users/jeffrosal1/Desktop/NUhomework/project3/Project3/dopple/static/img/dopplegang.png')
                 print(output)
-                set_api_key("i0bqh0wRTlMqHMTHXZPxXFumRAcETw698GaIqBN9vuM")
+                set_api_key("")
 
 # when sending a image file
 
