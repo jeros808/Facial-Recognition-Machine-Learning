@@ -12,7 +12,7 @@ pytz==2018.5
 six==1.11.0
 SQLAlchemy==1.2.10
 Werkzeug==0.14.1
-opencv-python==3.4.3.18 
+opencv-python==4.2.0.32 
 keyboard==0.13.2
 paralleldots==1.0.21
 gunicorn==19.9.0 
